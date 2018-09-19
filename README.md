@@ -63,5 +63,5 @@ python evaluate_gpu.py --reslut_mat the path of  the features mat
 
 ## Reference resources
 Thanks to the [layumi/Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch/blob/b9465f16a3b94300ceee8884120226804beee224/README.md).
-This repository only implements the part of PCB, I made some modifications on it and then add the RPP part.
+This repository only implements the part of PCB, I make some modifications on it and then add the RPP part.
 
